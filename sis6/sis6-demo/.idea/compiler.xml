@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="config-service" />
+        <module name="department-service" />
+        <module name="employee-service" />
+        <module name="eureka-service" />
+        <module name="sis6-demo" />
+        <module name="zuul-service" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
